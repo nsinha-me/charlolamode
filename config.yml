@@ -1,0 +1,123 @@
+baseURL: https://nsinha.me
+title: Nikhil Sinha
+paginate: 5
+theme: charlolamode
+
+
+
+menu:
+    main:
+        - name: Contact
+          url: /contact/
+          weight: 50
+        - name: What I Use
+          url: /whatiuse/
+          weight: 40
+        - name: Notes
+          url: /notes/
+          weight: 30
+        - name: Blog
+          url: /blog/
+          weight: 20
+        - name: Diary
+          url: /diary/
+          weight: 10
+
+     # - name: Categories
+        #   url: /categories/
+        #   weight: 10
+        # - name: new Tab
+        #   url: /newtab/
+        #   weight: defines order of tabs
+
+        #- name: Projects
+        #  url: /projects/
+        #  weight: 15
+
+
+params:
+    author: Nikhil Sinha
+
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    displayFullLangName: true
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowToc: false
+
+    profileMode:
+        # Disable to populate home page with 'mainSections' content
+        enabled: true
+        title: Nikhil Sinha
+        description: |
+
+          #### Freelancer, Developer & Linux user.
+          
+          ---
+
+          Hello Friend, welcome to my corner of the Internet. I am a 24 year old guy from Varanasi (Banaras), India, who loves computers and softwares. I am also a CS grad. and avid Linux user. But most importantly, _I am a man of culture_.
+
+          ---
+          I’m also a freelance web developer, creating hand-crafted websites for small businesses that are fast and customer-friendly. Also getting my hands dirty in graphic and video productions. If you’d like to get in touch, you can email me at nikhil@nsinha.me.
+
+          ---
+
+        imageUrl: "/images/profile.jpg"
+        imageTitle: my image
+        imageWidth: 160
+        imageHeight: 180
+        buttons:
+            - name: About Me
+              url: "/about/"
+            #- name: Gallery
+            #  url: "https://nsinha-gallery.netlify.app/"
+            - name: Links
+              url: "/links/"
+
+    mainSections:
+      - articles
+
+    socialIcons:
+        - name: email
+          url: "mailto:nikhil@nsinha.me"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/nikhil-sinha-473682236/"
+        - name: github
+          url: "https://github.com/nsinha-me"
+        - name: telegram
+          url: "https://t.me/nsinha_me/"
+        - name: instagram
+          url: "https://instagram.com/nsinha.me/"
+
+      # add more social icons. find more in svg.html file
+      # - name: youtube
+      #   url: yoururl
+      # - name: twitter
+      #   url: yoururl
+      # - name: facebook
+      #   url: yoururl
+      # - name: buymeacoffee
+      #   url: "https://ko-fi.com/heycharlola"        
+
+
+    # change favicon in images folder (icon for web tab)
+    assets:
+          favicon: "/images/favicon/favicon.ico"
+          favicon16x16: "/images/favicon/favicon-16x16.png"
+          favicon32x32: "/images/favicon/favicon-32x32.png"
+          apple_touch_icon: "/images/favicon/apple-touch-icon.png"
+          safari_pinned_tab: "/images/favicon/apple-touch-icon.png"
+
+
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+    disableXML: true
+
