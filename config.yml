@@ -9,9 +9,6 @@ menu:
     main:
         - name: Contact
           url: /contact/
-          weight: 50
-        - name: What I Use
-          url: /whatiuse/
           weight: 40
         - name: Notes
           url: /notes/
@@ -76,6 +73,8 @@ params:
             #  url: "https://nsinha-gallery.netlify.app/"
             - name: Links
               url: "/links/"
+            - name: What I Use
+              url: "/whatiuse/"
 
     mainSections:
       - articles
