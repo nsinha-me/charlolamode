@@ -15,6 +15,12 @@ What you are reading is my entire life's journey. I am writing all this as a pro
 ---
 ---
 
+### # 25-Mar-2023 Saturday
+_dadi_(grandmother) came to meet us. Wished _akash_ birthday. Asked him about colleges. Talked to _pradeep_. I am happy with his decision. I am happy that I have friends like _pradeep_ who are not coward. I don't know what will be its outcome, but the decision that _pradeep_ took are the decisions taken by brave people. Happy and proud.  
+At night went to _assi ghat_ with _prateek_. Talked to foreigners for 1 hour. They were from _Germany_. They came to India 3 weeks ago. And banaras was their last destination. They will be returning to germany tomorrow. We talked on many topics like tech, indian culture, divorce, foods, banaras, business. At last took photos with them and exchanged contacts. Felt nice talking to them. 
+
+
+
 
 ### # 24-Mar-2023 Friday
 Woke up at 9am. That's some impressive progress. _dada_(grandfather) diagnosed with _Osteoporosis_. Ahhhhhh sad. Doctor prescribed daily & weekly medicines and treatment will take 3 years and for temproary pain relief gave _diclofenac_ injection. Old age is filled with so many problems. I am happy that _dada_ is with me and I am doing something for him. Not everyone gets this opportunity. Checked the BARC website. Downloaded the gate scorecard. Edited my linkedin profile and sent some connection requests. Talked to _lavish_ about colleges.  
