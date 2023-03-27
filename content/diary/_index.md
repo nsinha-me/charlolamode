@@ -15,6 +15,14 @@ What you are reading is my entire life's journey. I am writing all this as a pro
 ---
 ---
 
+
+### # 26-Mar-2023 Sunday
+Wasted too much time today. Watched memes on reddit for 2 hours. reddit has some of the best memes that are relatable and funny. Registered on COAP website. _mama_(maternal uncle) came in evening to see _dada_(grandfather). Talked to _lavish_ in night about COAP and colleges. _Patel_ shared screenshot of her close moment that she wrote in notepad. Happy for her.  
+Used terminal today for everything. Happy. For copying, pasting, opening, installing, ... for everything I used command line. It will make me good and fast. Also uploaded dotfiles to github. Learnt about symlinks. I have to clean my external hard-disks. One is 1 TB and other is 1.5 TB. Both are almost full. They contain many duplicate files.  
+Headache is not there. I have to start some physical exercise. Urge to watch porn was high. But I controlled myself. Also, I am becoming too lazy. Fuck. I have exam in 2 weeks and have not studied anything in last 50-55 days.
+
+
+
 ### # 25-Mar-2023 Saturday
 _dadi_(grandmother) came to meet us. Wished _akash_ birthday. Asked him about colleges. Talked to _pradeep_. I am happy with his decision. I am happy that I have friends like _pradeep_ who are not coward. I don't know what will be its outcome, but the decision that _pradeep_ took are the decisions taken by brave people. Happy and proud.  
 At night went to _assi ghat_ with _prateek_. Talked to foreigners for 1 hour. They were from _Germany_. They came to India 3 weeks ago. And banaras was their last destination. They will be returning to germany tomorrow. We talked on many topics like tech, indian culture, divorce, foods, banaras, business. At last took photos with them and exchanged contacts. Felt nice talking to them. 
