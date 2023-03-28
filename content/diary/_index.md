@@ -15,6 +15,18 @@ What you are reading is my entire life's journey. I am writing all this as a pro
 ---
 ---
 
+### # 28-Mar-2023 Tuesday
+Talked to _S. Maurya_ on ig, and then on whatsapp about gate results, preparation and future plans. Completed the COAP details. Searched for colleges. Talked to _pradeep, lavish, akash, nii_ about colleges. Sent some more connection requests on linkedin. _Gokul_ from IITB told to keep BMT the last option. He suggested IEOR, GNR and CTARA branches. He rejected BMT due to research work it will involve and some companies don't allow BMT. He recommended IEOR because of technical work and interesting subjects but hard ones. Also, he told that IITB would be much better than mid NITs. Now, I am confused. I want to study CS and also get some time for my own things. I don't want to study side subjects. Neither do I have interest in AI/ML. I want low level system designs(as of now). After talking to _Gokul_, I am thinking of taking CS from NIT. Because I don't want to do research in something non-CS. I love biology, but doing research in it would be waste of time.  
+Took _dadi_(grandmother) to hospital. I am listening to songs at high volume in earphones. This is not good. Headache was there. I have lot of pending work to do.  
+Uninstalled _VSCodium_. Now i will use vim for all my work. 
+
+
+
+### # 27-Mar-2023 Monday
+Did some system tuning(wallpaper, permissions, ricing). Added firefox addons. Lost the 800+ bookmarks. Sad. I have to find its solution for something like this in future. _lavish_ and _ravi_ sent the scanned marksheet of mine. _abhay_ has started sending me lots of memes on ig. He is now my meme friend. Haha haaa haaa.  
+Downloaded one episode of _Modern Family_. Was hoping something hilarious but it was okayish for me. Then downloaded _The Dropout_. It is about startup. A girl who became the self made youngest billionaire in america. I am hoping this will not disappoint me. Probably this will be my last series of the year.  
+_Gupta_ posted photos of her and _paranjal_ on ig. 4 years together and counting. Happy for them. 
+
 
 ### # 26-Mar-2023 Sunday
 Wasted too much time today. Watched memes on reddit for 2 hours. reddit has some of the best memes that are relatable and funny. Registered on COAP website. _mama_(maternal uncle) came in evening to see _dada_(grandfather). Talked to _lavish_ in night about COAP and colleges. _Patel_ shared screenshot of her close moment that she wrote in notepad. Happy for her.  
