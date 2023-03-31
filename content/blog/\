@@ -6,10 +6,6 @@ type: page
 draft: true
 ---
 
-This article has not been completed. You can come again after some time.
-
-
-
 `lsblk`
 
 `umount /mnt`
@@ -49,7 +45,8 @@ PROMPT_COMMAND="history -a; $PROMPT_COMMAND"
             
             
 Flatpak apps - 
-``` bash
+``` bash 
+
 flatpak install \
 flathub com.github.Eloston.UngoogledChromium \
 flathub com.transmissionbt.Transmission \

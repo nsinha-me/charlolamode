@@ -15,6 +15,21 @@ What you are reading is my entire life's journey. I am writing all this as a pro
 ---
 ---
 
+### # 30-Mar-2023 Thursday
+Tired a lot. Need some good rest. Dropped _papa_(father) at station. Did some college research. Finally I have decided to take CS from NITs. I will fill the forms of IITs just to have options open for me. Saw some NIT MTech videos. I am becoming too lazy also.  
+Did not see _romee_ today. She was there with us from 2015. She was street dog, we just used to give her food and water. And sometimes space to sleep in rainy and winter days. She was not well from many days. From last 2 days she did not eat anything. Yesterday at night I gave her water and she drank some. She was there at back of the house. It was the last time we saw her. Tried to find her today. Searched every street nearby. She was not there. Sad. Who will bite me now? Who will run behind the scooty now? Sad. She was the best street dog. Best of the best. Wherever she is, krishna please take care of her. And if she is not there with us anymore, then please krishna give her good _yoni_. After this much pain, she deserves something good. Today is _Ram Navami_. Please krishna give her shelter under your feet. _Romee_. Now whom I will slap? Now with whom will I play? Ahhhhh, sad.  
+Hare krishna hare krishna, krishna krishna hare hare,  
+Hare rama hare rama, rama rama hare hare.    
+
+
+
+### # 29-Mar-2023 Wednesday
+Boring day. Talked to many people on linkedin about the branch I should take. Confused which college to choose. Took _dadi_(grandmother) to hospital for blood test. Headache was also there. I am taking too much tension and also old memories are haunting me. How can someone play with someone? What wrong I did? Is this world filled with people like her? I thought she is different, but I was completely wrong. She is also like everyone. Fake and fraud. But no problem, _karma_ will take care of everything. For her and for me too. Lets see what happens in future. I am happy because I am free now. I can do whatever I want. Sky is the limit, lets surpass that too.  
+Didn't get time to watch _The Dropout_. Busy all day. I have to fill the colleges form fast. Today listened to new song _Kaun Disha Mein Leke Chala Re Batohiya_ from movie _Nadiya Ke Paar_. It was good song.
+
+
+
+
 ### # 28-Mar-2023 Tuesday
 Talked to _S. Maurya_ on ig, and then on whatsapp about gate results, preparation and future plans. Completed the COAP details. Searched for colleges. Talked to _pradeep, lavish, akash, nii_ about colleges. Sent some more connection requests on linkedin. _Gokul_ from IITB told to keep BMT the last option. He suggested IEOR, GNR and CTARA branches. He rejected BMT due to research work it will involve and some companies don't allow BMT. He recommended IEOR because of technical work and interesting subjects but hard ones. Also, he told that IITB would be much better than mid NITs. Now, I am confused. I want to study CS and also get some time for my own things. I don't want to study side subjects. Neither do I have interest in AI/ML. I want low level system designs(as of now). After talking to _Gokul_, I am thinking of taking CS from NIT. Because I don't want to do research in something non-CS. I love biology, but doing research in it would be waste of time.  
 Took _dadi_(grandmother) to hospital. I am listening to songs at high volume in earphones. This is not good. Headache was there. I have lot of pending work to do.  
