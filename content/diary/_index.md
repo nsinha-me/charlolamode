@@ -15,6 +15,67 @@ What you are reading is my entire life's journey. I am writing all this as a pro
 ---
 ---
 
+
+
+### # 10-Apr-2023 Monday
+Woke up late. Learning how to manage people. How to get the work done. How to talk to them. When to be polite and when to be rude. I am enjoying it. _mama_(maternal uncle) came in evening to meet. I love _mama_. He is so good. I am thankful to god that he has given persons like _mama_ in my life. Actually, I have 2 great people, one is my father and other is my _mama_. Both are good people and best in their profession. One advocate and the other doctor. So coooool. 
+
+
+### # 09-Apr-2023 Sunday
+Was tired, so slept long. Watched vim tutorial and practiced it. Scolded _Patel_ for doing wrong thing. Watched first episode of _The Dropout_. It was amazing. I can relate to it. It is motivating me. I have to do things quickly. I am becoming lazy. Also, there are lot of pending works that I have to complete.
+
+
+### # 08-Apr-2023 Saturday
+Gave BARC exam. Timing was 10am-12pm. Paper was hard and there were many multiple select questions. 2 BARC people came to the exam center, was happy to see them. Sun was too hot, got burnt while returning back to home. Met _akash_. Discussed about college preference, stock market, business ideas, and quant companies. Talked to _lavish_ about future plans. _Dinesh chacha_(uncle) had an accident. _Banaras_ is not good for driving. Learnt some _vim_.  
+
+
+### # 07-Apr-2023 Friday
+Did _xmodmap_ setting, finally. Happy. It took so much time, but at the end it was worth it. Pushed the _xmodmap_ and xinitrc to github. Filled the gate score in BARC application. I am dealing with real people and learning marketing. Waaooooooo. Happy. Had talk with _chota papa_(uncle) on call in the evening and he said he will come to meet me before I go to college. _pradeep_ called, discussed about BARC and college and future plans. Called _lavish_ to get basic guidance about tomorrow's BARC exam. Also, gave him warning that his time is over. Now he has to work for me. Otherwise I will hire someone else. Funny, haahaaaa ha ha. I have not studied anything from last 2 months. Going to flip my notes as fast as possible, then I will sleep. Algorithms and compilers are my favourite. All the best to me for tomorrow's exam.  
+Hare Krishna.
+
+
+
+### # 06-Apr-2023 Thursday
+I am riding too much scooty, but what to do, work is work. Hands are paining due to it, and hands, arms and feets got tanned. Managing and learning how to take work from people. _Patel_ called in evening. Went to meet _nana_(maternal grandfather). _mama_(maternal uncle) came after some time. I was sitting besides him, and while discussing some topics he put his hand on my shoulder. Waoooo. Happy-happy. At night, did some _xmodmap_ testing. But it did not work. Will give 1-2 more try. Filled the IIT BHU form. Did not fill IIT Delhi form, thinking its waste of money.
+
+
+
+### # 05-Apr-2023 Wednesday
+Whole day I was out. Felt good. Managed people, interacted with them. Back pain was there. Was filling IIT BHU form, but the server was slow. Tired. _Vishal verma_(school friend) called for information about industrial training from _dlw_.  
+This day of the last month, I blocked her from everywhere. 
+
+ 
+### # 04-Apr-2023 Tuesday
+Busy day. Cleaned the office. Setup the computers there. Managed some people. Went to _assi ghat_ with _prateek_ at night. Going to sleep early.
+
+
+
+### # 03-Apr-2023 Monday
+Filled the IIT Gandhinagar form. I am very slow in doing all these things. I check twice and sometimes thrice before submitting. Got injection work done for _dada-dadi_(grandparents). Talked to _Patel_ on call. Happy.
+
+
+
+### # 02-Apr-2023 Sunday
+Busy day. Nothing special. Yesterday, listened to wonderful story told by _Manisha Jakhmola_ mataji. It was story about a _bhakt_ and his simpleness. I showed it to mother, father and _dadi_(grandmother). Everyone enjoyed it.
+
+
+
+### # 01-Apr-2023 Saturday
+_Kamada Ekadashi_ today. Enjoyed this _Ekadashi_. Don't know why, but I was happy today. Cleaned the room. Changed table setup. BARC admit card came. The exam centre is 22km away from home. I have to study for it. Did some more _bspwm_ changes. Added notification in it. Happy today.  
+Hare Krishna.
+
+
+
+
+### # 31-Mar-2023 Friday
+Watched many videos about colleges. Did some _bspwm_ configuration. Took _dadi_(grandmother) to hospital. _Romee_ did not come. Watched _The Dropout_ for 2 mins. It is awesome. I think it will inspire me to do something in life. Yes, I want to become billionaire. I want to work hard.  
+Searched about which phone will be right for me. I am not using phone at all. Just for 5-10 mins. I have to get new phone. Going to sleep early. 
+
+
+
+
+
+
 ### # 30-Mar-2023 Thursday
 Tired a lot. Need some good rest. Dropped _papa_(father) at station. Did some college research. Finally I have decided to take CS from NITs. I will fill the forms of IITs just to have options open for me. Saw some NIT MTech videos. I am becoming too lazy also.  
 Did not see _romee_ today. She was there with us from 2015. She was street dog, we just used to give her food and water. And sometimes space to sleep in rainy and winter days. She was not well from many days. From last 2 days she did not eat anything. Yesterday at night I gave her water and she drank some. She was there at back of the house. It was the last time we saw her. Tried to find her today. Searched every street nearby. She was not there. Sad. Who will bite me now? Who will run behind the scooty now? Sad. She was the best street dog. Best of the best. Wherever she is, krishna please take care of her. And if she is not there with us anymore, then please krishna give her good _yoni_. After this much pain, she deserves something good. Today is _Ram Navami_. Please krishna give her shelter under your feet. _Romee_. Now whom I will slap? Now with whom will I play? Ahhhhh, sad.  
