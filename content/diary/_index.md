@@ -17,6 +17,64 @@ What you are reading is my entire life's journey. I am writing all this as a pro
 
 
 
+### # 18-Apr-2023 Tuesday
+Best day. We got our first client and the client paid half money in advance too. _lavish_ and I were working on the website for the client on google meet whole day. Finally at night we sent the demo site to the client. _ravi_ called at night, talked to him for 10min. Talked to _pradeep_ on call at night. Talked about college, friendship, linux, and ego. When going to sleep around 6 in morning, _abhay_ was online on ig. Wished him good morning and he wished me good night. Funny, haha haaahaa ha.  
+Happy-happy.
+
+
+
+### # 17-Apr-2023 Monday
+Setup brightness, date-time notification, battery and charging status. Now my system is almost usable. After adding brightness control with _brillo_, the screen output quality increased. _xrandr_ to control brightness was making it blurry. Very happy-happy.     
+_lavish_ and I learnt how to pull and merge the conflicts. Have to edit the css and javascript files that _lavish_ pushed yesterday for the flask project. Also, _lavish_ talked to the client. Finally we might get our first client. Happy-happy. Very happy.  
+No symptoms of headache recently.  
+Got wholesome video with good song. Listened to it all day when working on laptop. Tomorrow I will upload this video on ig. Lets see what reactions I get.
+
+
+
+### # 16-Apr-2023 Sunday
+_Varuthini Ekadashi_. _bspwm_ screenshot done. At night, video called _lavish_ and we were learning git pull and merge. Happy. Have to increase my speed. I am very slow.  
+_pradeep_ went to meet _bharat_ in _gurgaon_. _bharat_ called and we talked random stuff.  
+_Hare krishna hare krishna, krishna krishna hare hare_  
+_Hare rama hare rama, rama rama hare hare_
+
+
+
+### # 15-Apr-2023 Saturday
+Talked to _pradeep_. Decided to meet in _lucknow_. _lavish_ has started making the website. Have to search different ideas for business. Have to do it fast. The loan amount is more and increasing.  
+Created yt channel and told _bugs_ about it. He said to send the link of first video. Happy. 
+
+
+
+### # 14-Apr-2023 Friday
+Happy. Working hard. Talked to _Patel_ on call at night. Revised our old college memories of 1st year, _blank_ and hostel. We once played hide and seek in college campus. It was fun. Happy.
+
+
+
+
+
+
+### # 13-Apr-2023 Thursday
+Finally _lavish_ and I decided to go with _flask_ and _sqlite_ for the website. Did some _vim_ and _zsh_ configuration. Now the current _arch_ install is becoming usable. Still I have to add many functions like screenshot, brigntness, volume, charging. _mama_ bought property, came in afternoon and gave sweets. 
+
+
+
+### # 12-Apr-2023 Wednesday
+Tired. Talked to _lavish_ about webstite making. I have to learn time management. I have time, but it is not utilized properly. Told the story of _The Dropout_ to _nii_. 
+
+
+
+
+
+
+### # 11-Apr-2023 Tuesday
+Good day. Worked hard. I am skipping lunch from 2-3 days due to work. This is not good for health. Went to _mohansarai_ in evening. _mama_ and _nana_ came in afternoon, but did not get time to meet them properly. At night, talked to _ravi_ on call regarding college, youtube and future plans.  
+Completed _The Dropout_. It was good, learnt many things. I was thinking of positive story, but it was story about a fraud. Valuable lessons were there. 
+
+
+
+
+
+
 ### # 10-Apr-2023 Monday
 Woke up late. Learning how to manage people. How to get the work done. How to talk to them. When to be polite and when to be rude. I am enjoying it. _mama_(maternal uncle) came in evening to meet. I love _mama_. He is so good. I am thankful to god that he has given persons like _mama_ in my life. Actually, I have 2 great people, one is my father and other is my _mama_. Both are good people and best in their profession. One advocate and the other doctor. So coooool. 
 
